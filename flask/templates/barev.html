@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+
+{% block title %}
+pole.chudes
+{% endblock %}
+
+{% block body %}
+<h1> {{ info['harc'] }} </h1>
+<style>
+.square1{
+	float: left;
+    width: 80px;
+    height: 80px;
+    background: #f447ff;
+    color: white;
+    margin-top: 60px;
+    margin-right: 10px;
+    text-align: center;
+    font-size: 60px;
+    }
+</style>
+  {% for i in info['cur'] %}
+  <div class="square1">{{i}}</div>
+  {% endfor %}
+</div><br><br><br><br><br><br><br><br><br><br><br>
+<form action="/stugum">
+  <label for="fname">Mutq 1 tar:</label>
+  <input type="text" id="fname" name="fname" placeholder="MUTQ TAR" ><br><br>
+  <input type="submit" value="ok">
+</form><br><br><br><br><br>
+
+{% endblock %}

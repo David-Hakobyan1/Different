@@ -1,0 +1,4 @@
+login:123,parol:123,fname:David,lname:Hakobyan
+login:1234,parol:1,fname:dv,lname:sd
+login:123456,parol:123456,fname:Dav,lname:H
+login:armen,parol:kayfo,fname:Armen,lname:Varosyan

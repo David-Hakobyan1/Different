@@ -1,0 +1,32 @@
+{% extends 'base.html' %}
+
+{% block title %}
+Mutq kayq
+{% endblock %}
+
+{% block body %}
+
+<style>
+h1 {
+  color: red;
+
+}
+.layer1 {
+    position: fixed; /*  позиционирование */
+    bottom: 0px; /* Положение от нижнего края */
+    right: 20px; /* Положение от правого края */
+   }
+
+</style>
+<h1> Please enter your login and password </h1>
+<p class="layer1"><img src="static/css/armflag.jpg"rel="stylesheet"  width="1050" height="550"></p>
+
+<p></p1>
+<form action="/checksubmit">
+<label for="login">Please enter your login:</label><br>
+  <input type="text" id="login" name="login" value=""><br><br>
+<label for="parol">Please enter your password:</label><br>
+  <input type="text" id="gdfd" name="parol" value=""><br><br>
+<input type="submit" value="Press" href="/home">
+</form> 
+{% endblock %}

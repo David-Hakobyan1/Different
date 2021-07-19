@@ -1,0 +1,117 @@
+PID       USER       VIRT          COMAND
+18338       1000       8492          bash
+grep: /proc/18339/status: Нет такого файла или каталога
+grep: /proc/18339/status: Нет такого файла или каталога
+grep: /proc/18339/status: Нет такого файла или каталога
+grep: /proc/18339/status: Нет такого файла или каталога
+                        
+18317       1000       7000          sleep
+16986       0                 kworker/1:2
+14941       0                 kworker/u8:2-phy0
+13080       0                 kworker/0:1-events
+12789       1000       8492          bash
+12546       1000       8492          bash
+12223       1000       8492          bash
+11719       0                 kworker/2:2-events_long
+11704       0                 kworker/3:1-events
+8960       0                 kworker/u8:1-phy0
+7864       0                 kworker/0:2-mm_percpu_wq
+7297       0                 kworker/2:0-events_long
+7087       1000       8492          bash
+6089       0                 kworker/1:0-mm_percpu_wq
+6091       0                 kworker/3:0-events
+5892       1000       8492          bash
+5694       1000       8492          bash
+5274       0                 kworker/u8:0-events_unbound
+4850       0       2512          sh
+4851       0       2400          run-parts
+4883       0       2508          2-apt-compat
+4890       0       2412          sleep
+syun.sh: строка 29: read: ошибка чтения: 0: Неправильный дескриптор файла
+[H[2J[3JPID       USER       VIRT          COMAND
+grep: /proc/18630/status: Нет такого файла или каталога
+grep: /proc/18630/status: Нет такого файла или каталога
+grep: /proc/18630/status: Нет такого файла или каталога
+grep: /proc/18630/status: Нет такого файла или каталога
+                        
+18338       1000       8812          bash
+18317       1000       7000          sleep
+16986       0                 kworker/1:2
+14941       0                 kworker/u8:2-phy0
+13080       0                 kworker/0:1-events
+12789       1000       8492          bash
+12546       1000       8492          bash
+12223       1000       8492          bash
+11719       0                 kworker/2:2-events_long
+11704       0                 kworker/3:1-events
+8960       0                 kworker/u8:1-phy0
+7864       0                 kworker/0:2-mm_percpu_wq
+7087       1000       8492          bash
+6089       0                 kworker/1:0-mm_percpu_wq
+6091       0                 kworker/3:0-events
+5892       1000       8492          bash
+5694       1000       8492          bash
+5274       0                 kworker/u8:0-events_unbound
+4850       0       2512          sh
+4851       0       2400          run-parts
+4883       0       2508          2-apt-compat
+4890       0       2412          sleep
+syun.sh: строка 29: read: ошибка чтения: 0: Неправильный дескриптор файла
+[H[2J[3JPID       USER       VIRT          COMAND
+grep: /proc/18909/status: Нет такого файла или каталога
+grep: /proc/18909/status: Нет такого файла или каталога
+grep: /proc/18909/status: Нет такого файла или каталога
+grep: /proc/18909/status: Нет такого файла или каталога
+                        
+18338       1000       8812          bash
+18317       1000       7000          sleep
+16986       0                 kworker/1:2
+14941       0                 kworker/u8:2-phy0
+13080       0                 kworker/0:1-events
+12789       1000       8492          bash
+12546       1000       8492          bash
+12223       1000       8492          bash
+11719       0                 kworker/2:2-events_long
+11704       0                 kworker/3:1-events
+8960       0                 kworker/u8:1-phy0
+7864       0                 kworker/0:2-mm_percpu_wq
+7087       1000       8492          bash
+6089       0                 kworker/1:0-mm_percpu_wq
+6091       0                 kworker/3:0-events
+5892       1000       8492          bash
+5694       1000       8492          bash
+5274       0                 kworker/u8:0-events_unbound
+4850       0       2512          sh
+4851       0       2400          run-parts
+4883       0       2508          2-apt-compat
+4890       0       2412          sleep
+syun.sh: строка 29: read: ошибка чтения: 0: Неправильный дескриптор файла
+[H[2J[3JPID       USER       VIRT          COMAND
+grep: /proc/19188/status: Нет такого файла или каталога
+grep: /proc/19188/status: Нет такого файла или каталога
+grep: /proc/19188/status: Нет такого файла или каталога
+grep: /proc/19188/status: Нет такого файла или каталога
+                        
+18338       1000       8812          bash
+18317       1000       7000          sleep
+16986       0                 kworker/1:2
+14941       0                 kworker/u8:2-phy0
+13080       0                 kworker/0:1-events
+12789       1000       8492          bash
+12546       1000       8492          bash
+12223       1000       8492          bash
+11719       0                 kworker/2:2-events_long
+11704       0                 kworker/3:1-mm_percpu_wq
+8960       0                 kworker/u8:1-phy0
+7864       0                 kworker/0:2-mm_percpu_wq
+7087       1000       8492          bash
+6089       0                 kworker/1:0-mm_percpu_wq
+6091       0                 kworker/3:0-events
+5892       1000       8492          bash
+5694       1000       8492          bash
+5274       0                 kworker/u8:0-events_unbound
+4850       0       2512          sh
+4851       0       2400          run-parts
+4883       0       2508          2-apt-compat
+4890       0       2412          sleep
+syun.sh: строка 29: read: ошибка чтения: 0: Неправильный дескриптор файла

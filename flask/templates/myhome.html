@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+
+{% block title %}
+WELCOME
+{% endblock %}
+
+{% block body %}
+
+<h1> ~~ Bari galust ~~ Welcome ~~ Добро пожаловать ~~</h1>
+<form action="{{url_for('about')}}"
+  <label for="fname">Name:</label>
+  <input type="text" id="fname" name="name" placeholder="anun" >
+  <label for="fname">Surname:</label>
+  <input type="text" id="lname" name="surname" placeholder="azganun" >
+  <label for="fname">Login:</label>
+  <input type="text" id="sname" name="login" placeholder="login" >
+  <label for="fname">Password:</label>
+  <input type="text" id="gname" name="password" placeholder="password" >
+  <input type="submit" value="ok">
+</form>
+  {% if info %}
+  <h1>{{info}}</h1>
+  {% endif %}
+
+
+{% endblock %}

@@ -1,0 +1,61 @@
+{% extends 'base.html' %}
+
+{% block title %}
+Mer masin
+{% endblock %}
+
+{% block body %}
+
+<form action="/checkregister">
+  <label for="fname">First name:</label>
+  <input type="text" id="fname" name="fname"><br><br>
+  <label for="lname">Last name:</label>
+  <input type="text" id="lname" name="lname"><br><br>
+  <input type="submit" value="Submit">
+</form>
+
+<h1 style="color:Tomato;">Vahan Teryan</h1>
+<p> Ապրելուց քաղցր է մեռնել քեզ համար,<br></br>
+Զգալ, որ դու կաս և լինել հեռու.<br></br>
+Երկրպագել քեզ առանց սիրվելու,<br></br>
+Երազել միշտ քեզ — լինել քեզ օտար...<br></br>
+
+Ստվերըդ փնտրել ամեն տեղ, ուր խենթ<br></br>
+Հոգին կարող է թռիչքով չափել.<br></br>
+Անանց կարոտում անվերջ տառապել<br></br>
+Եվ լինել քեզնից բաժանված հավետ...<br></br>
+Ու գերեզմանում սև հողերի տակ <br></br>
+Եվ ոչ մի հուշով սիրտըդ չըտանջել,<br></br>
+Զգալ, որ անցար, և քեզ չըկանչել,<br></br>
+</p>
+<h1 style="color:Tomato;">Ցանկություն</h1>
+Քո հայացքը մոգական<br></br>
+Բորբոքում է քաղցր դող,—<br></br>
+Պարուրիր ինձ կուսական<br></br>
+Հուզումներով քո դյութող։<br></br>
+Ւնձ փաթաթիր որպես ամպ՝<br></br>
+Մութ աչքերըդ մեղմ փակիր,<br></br>
+Ժպտա՛ կրքոտ բերկրությամբ,<br></br>
+Անցավ կյանքըս խորտակիր…<br></br>
+Արյունոտիր շուրթերն իմ,<br></br>
+Սիրտս խայթիր՝ ծիծաղիր.<br></br>
+Թ՛ող աչքերս հեզ մեռնին,<br></br>
+Կյանքս մարիր ու փախիր։<br></br>
+Քո հայացքը մոգական<br></br>
+Բորբոքում է քաղցր դող, —<br></br>
+Պարուրիր ինձ կուսական<br></br>
+Հուզումներով քո դյութող…<br></br>
+Ու չըխռովել բերկրանքըդ հստակ...<br></br>
+{{ data['name'] }} is {{ data['status'] }}<br></br>
+</p>
+<style>
+   .layer1 {
+    position: fixed; /*  позиционирование */
+    bottom: 100px; /* Положение от нижнего края */
+    right: 15px; /* Положение от правого края */
+   }
+
+ </style>
+<p class="layer1"><img src="static/css/index.jpeg"rel="stylesheet"  width="600" height="400"></p>
+
+{% endblock %}

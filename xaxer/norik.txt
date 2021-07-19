@@ -1,0 +1,5 @@
+HARC_Aratur(@mbish)...- Aleqsanyan,Poghosyan,Kirakosyan
+HARC_Dzaxord...- Panos,Nazar,Gazan
+HARC_Qaj...-Panos,Jin, Nazar
+HARC_Krnat...-axper,txa, axjik
+HARC_Henrik(futbolist)...-Petrosyan, Mxitaryan,Manukyan
