@@ -1,2 +1,2 @@
-from_email = "21656david@mail.ru"
-password = "david21656"
+from_email = "21656davidhkbyan@mail.com"
+password = "*******************"
